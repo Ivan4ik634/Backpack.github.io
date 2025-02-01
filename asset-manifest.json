@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Backpack.github.io/static/css/main.d45d4d40.css",
+    "main.js": "/Backpack.github.io/static/js/main.6a39b0e0.js",
+    "static/js/488.10659d61.chunk.js": "/Backpack.github.io/static/js/488.10659d61.chunk.js",
+    "static/media/About-img.jpg": "/Backpack.github.io/static/media/About-img.2cc610987fb0cd1767b5.jpg",
+    "static/media/CartModel.png": "/Backpack.github.io/static/media/CartModel.bab77c3f95dab7e17798.png",
+    "static/media/Black and white woman walking with a shopping cart.png": "/Backpack.github.io/static/media/Black and white woman walking with a shopping cart.d3d41b32d034d8dfa2bc.png",
+    "static/media/backpack.svg": "/Backpack.github.io/static/media/backpack.1d7f708f6c3a6b8567c782a91ab7ca5f.svg",
+    "static/media/ImgCart.png": "/Backpack.github.io/static/media/ImgCart.b4a929a4a5a7cf005287.png",
+    "static/media/Close.png": "/Backpack.github.io/static/media/Close.2fb2436bb5fe0c99c296.png",
+    "index.html": "/Backpack.github.io/index.html",
+    "main.d45d4d40.css.map": "/Backpack.github.io/static/css/main.d45d4d40.css.map",
+    "main.6a39b0e0.js.map": "/Backpack.github.io/static/js/main.6a39b0e0.js.map",
+    "488.10659d61.chunk.js.map": "/Backpack.github.io/static/js/488.10659d61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d45d4d40.css",
+    "static/js/main.6a39b0e0.js"
+  ]
+}
